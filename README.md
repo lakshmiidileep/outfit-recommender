@@ -1,2 +1,2 @@
 # book-recommender
-A simple outfit recommendation system using Python.
+A simple book recommendation system using Python.
